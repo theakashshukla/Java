@@ -5,7 +5,7 @@
 
 | No.| Program | Link |
 | --- | --- | --- |
-| 1 | Write a Program in Java to Calculate the Simple Interest | [Code](https://github.com/Makhanlal-Chaturvedi-University/Java/tree/main/Project 1)  |
+| 1 | Write a Program in Java to Calculate the Simple Interest | [Code](https://github.com/Makhanlal-Chaturvedi-University/Java/tree/main/Project%201)  |
 | 2 | Write a Program in Java to Calculate  Sum  of  Two  Numbers  Input  from Command Line Argument. | [Code](https://github.com/Makhanlal-Chaturvedi-University/Python/blob/main/2.py)  |
 | 3 |	Write a Program in Java to Calculate Area of Circle Using Scanner Class. | [Code](https://github.com/Makhanlal-Chaturvedi-University/Python/blob/main/3.py)  |
 | 4 |	Write a Program in Java to Calculate Square Root of a Number. | [Code](https://github.com/Makhanlal-Chaturvedi-University/Python/blob/main/4.py)   |
