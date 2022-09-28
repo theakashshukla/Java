@@ -1,4 +1,4 @@
-//Chor Sipahi Game Project
+//Chor Sipahi Game Projects
 import java.util.*;
 public class Rmcs {
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class Rmcs {
         System.out.println("3.Chor");
         System.out.println("4.Sipahi");
         // Create Scanner
-        Scanner input = new Scanner(System.in); // Create Scanner
+        Scanner input = new Scanner(System.in); // Create Scanner 
         int option = input.nextInt(); // Read the option
 
         Random random = new Random(); // Create Random
