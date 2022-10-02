@@ -1,25 +1,18 @@
+
 // Write a Program in Java to Determine Whether a Number Input from Keyboard is Prime Number Or Not.
 import java.util.Scanner;
 
 public class Prime {
-    
-    public static void main(String args[]){
-        int a;
-        boolean isPrime = true;
+    public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a number: ");
-        a = sc.nextInt();
-        for(int i = 2; i <= a/2; i++){
-            if(a % i == 0){
-                isPrime = false;
-                break;
-            }
+        System.out.print("Enter a number: ");
+        int n = sc.nextInt();
+        int m;
+        m = n / 2;
+        if (m == 0 || m == 1) {
+            System.out.println(n + " is not prime number");
+        } else {
+            System.out.println(m + " is prime number");
         }
-        if(isPrime){
-            System.out.println(a + " is a prime number.");
-        }else{
-            System.out.println(a + " is not a prime number.");
-        }
-
     }
 }
