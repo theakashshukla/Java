@@ -7,12 +7,22 @@ public class Prime {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
-        int m;
-        m = n / 2;
-        if (m == 0 || m == 1) {
-            System.out.println(n + " is not prime number");
-        } else {
-            System.out.println(m + " is prime number");
+        int count = 0;
+
+        if (n <= 1) {
+            System.out.println("The number is not prime");
+            return;
+        }
+        for(int i=2; i<n; i++){
+            if(n % i == 0){
+                count++;
+            }
+        }
+        if(count > 0){
+            System.out.println("The number is not prime");
+        }
+        else{
+            System.out.println("The number is prime");
         }
     }
 }
