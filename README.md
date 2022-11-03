@@ -21,7 +21,7 @@
 | 14 |	Write a Program in Java to Show Single Inheritance. | [Code](https://github.com/Makhanlal-Chaturvedi-University/Java/tree/main/Project%201) |
 | 15 |	Write a Program in Java to Concatenate Two Strings Without Using Library Function. | [Code](https://github.com/Makhanlal-Chaturvedi-University/Java/tree/main/Project%201) |
 | 16 |	Write a Program in Java to Make First Alphabet Capital of Each Word in a String. | [Code](https://github.com/Makhanlal-Chaturvedi-University/Java/tree/main/Project%201) |
-| 17 | 17.	Write a Program in Java to Get the Last Index of Any Given Character in a String.  | [Code](https://github.com/Makhanlal-Chaturvedi-University/Java/tree/main/Project%201)  |
+| 17 | Write a Program in Java to Get the Last Index of Any Given Character in a String.  | [Code](https://github.com/Makhanlal-Chaturvedi-University/Java/tree/main/Project%201)  |
 | 18 |	Write a Program in Java to Reverse Words of a String. | [Code](https://github.com/Makhanlal-Chaturvedi-University/Java/tree/main/Project%201) |
 | 19 |	Write a Program in Java to Find Occurrences of Each Character in a String. | [Code](https://github.com/Makhanlal-Chaturvedi-University/Java/tree/main/Project%201) |
 | 20 |	Java Program to Get String and Count Number of Words in Provided String. | [Code](https://github.com/Makhanlal-Chaturvedi-University/Java/tree/main/Project%201) |
