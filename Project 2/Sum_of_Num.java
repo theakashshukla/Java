@@ -1,7 +1,6 @@
 // Write a Program in Java to Calculate  Sum  of  Two  Numbers  Input  from Command Line Argument.
 import java.util.Scanner;
 public class Sum_of_Num {
-
     public static void main (String[] args) {
         int num1;
         int num2;
