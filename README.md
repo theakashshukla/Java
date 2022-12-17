@@ -49,8 +49,11 @@
 Here are some related projects
 
 [Web Technologies](https://github.com/theakashshukla/Web-Technologies)
-
 [Data Structures & Algorithms](https://github.com/theakashshukla/Data-Structures-Algorithms)
+
+<p align="center"> <a href="https://github.com/theakashshukla/Data-Structures-Algorithms.git/"><img width="48%" title="Data Structures Algorithms" src="https://github-readme-stats.vercel.app/api/pin/?username=theakashshukla&repo=Data-Structures-Algorithms&theme=dark"></a>
+<a href="https://github.com/theakashshukla/Web-Technologies.git/"><img width="48%" title="Web Technologies" src="https://github-readme-stats.vercel.app/api/pin/?username=theakashshukla&repo=Web-Technologies&theme=dark"></a>
+</p>
 
 
 ### Thanks to all the contributors ❤️
