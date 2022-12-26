@@ -4,7 +4,7 @@ public class RangePrime {
         int num = 500;
         for (int i = 2; i <= num; i++) {
             if (isPrime(i)) {
-                System.out.println(i);
+                System.out.print(i+" ");
             }
         }
     }

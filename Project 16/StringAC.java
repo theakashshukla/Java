@@ -1,6 +1,6 @@
 // Write a Program in Java to Make First Alphabet Capital of Each Word in a String.
-import java.util.Scanner;
 
+import java.util.Scanner;
 public class StringAC{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

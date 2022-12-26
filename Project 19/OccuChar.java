@@ -2,7 +2,7 @@
 
 public class OccuChar {
     public static void main(String[] args){
-        String str = "Write a Program in Java to Find Occurrences of Each Character in a String.";
+        String str = "Write a Program in Java";
         int[] freq = new int[str.length()];
         char[] string = str.toCharArray();
         for(int i = 0; i < str.length(); i++){

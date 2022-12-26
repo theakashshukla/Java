@@ -8,7 +8,7 @@ public class Simple_Interest {
         int rate_of_interest;
         int time_period;
         int interest;
-        int total;
+        // int total;
 
         Scanner input = new Scanner(System.in); // Create a Scanner object
 
@@ -20,13 +20,13 @@ public class Simple_Interest {
         rate_of_interest = input.nextInt();
         
         interest = (principle_amount * time_period * rate_of_interest/100);// Calculate the simple interest
-        total = principle_amount + interest; // Calculate the total amount
+        // total = principle_amount + interest; // Calculate the total amount
 
         System.out.println("Total interest: "+ interest);  // Print the total interest
 
-        System.out.println("Total Payable Amount:" + (total)); // Print the total payable amount
+        // System.out.println("Total Payable Amount:" + (total)); // Print the total payable amount
 
-        System.out.println("Monthly Installment: "+ (total/time_period)); // Display the monthly installment
+        // System.out.println("Monthly Installment: "+ (total/time_period)); // Display the monthly installment
 
     }
 }
